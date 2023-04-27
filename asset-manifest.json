@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ExpenseDashboard/static/css/main.d3218078.css",
+    "main.js": "/ExpenseDashboard/static/js/main.69a661c2.js",
+    "index.html": "/ExpenseDashboard/index.html",
+    "main.d3218078.css.map": "/ExpenseDashboard/static/css/main.d3218078.css.map",
+    "main.69a661c2.js.map": "/ExpenseDashboard/static/js/main.69a661c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3218078.css",
+    "static/js/main.69a661c2.js"
+  ]
+}
